@@ -1,2 +1,0 @@
-class DirectDownloadLinkException(Exception):
-    pass
